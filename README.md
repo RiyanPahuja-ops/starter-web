@@ -17,3 +17,5 @@ llast example
 ##description
 
 ##how to contribute
+
+Adding copyright notice
